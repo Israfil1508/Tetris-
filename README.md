@@ -1,0 +1,1 @@
+Tetris is a classic tile-matching puzzle game where the objective is to manipulate falling tetrominoes (shapes made of four blocks) to clear horizontal lines on a playfield. This project implements the Tetris game using C++.
